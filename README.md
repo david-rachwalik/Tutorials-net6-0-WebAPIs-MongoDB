@@ -6,10 +6,16 @@
 
 Personal site for hobbies, aspirations, game news, game design, engine info, and patch notes.
 
-### Useful Commands
+### Useful Project Commands
 
 Add git-ignore file (standard as of 2020) (or [gitignore.io template](https://www.toptal.com/developers/gitignore/api/aspnetcore))
 
 ```bash
 dotnet new gitignore
+```
+
+Install the .NET driver package for MongoDB
+
+```bash
+dotnet add package MongoDB.Driver
 ```
