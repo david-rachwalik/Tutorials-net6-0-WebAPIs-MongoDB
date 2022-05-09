@@ -8,6 +8,12 @@ Personal site for hobbies, aspirations, game news, game design, engine info, and
 
 ### Useful Project Commands
 
+Create the ASP.NET Core web API project
+
+```bash
+dotnet new webapi -o <project-name>
+```
+
 Add git-ignore file (standard as of 2020) (or [gitignore.io template](https://www.toptal.com/developers/gitignore/api/aspnetcore))
 
 ```bash
